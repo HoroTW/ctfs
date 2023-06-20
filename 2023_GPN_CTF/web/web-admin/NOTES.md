@@ -1,4 +1,4 @@
-# GPN CTF 2023
+# Notes
 https://ctf.kitctf.de/challenges#Web-Admin-9
 https://ctftime.org/task/25508
 
