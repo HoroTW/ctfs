@@ -31,4 +31,7 @@ Table of CTFs (2023):
 | Solved | Year | CTF     | Category | Name                |
 | ------ | ---- | ------- | -------- | ------------------- |
 | ✔      | 2023 | GPN CTF | web      | Web-Admin           |
-| ✖      | 2023 | GPN CTF | pwn      | dot-shortage-warmup |
+| ✔      | 2023 | GPN CTF | pwn      | dot-shortage-warmup |
+
+✔ = Solved
+✖ = Not solved
