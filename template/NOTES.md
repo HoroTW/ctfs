@@ -1,6 +1,6 @@
 # Notes
 
-Url: -
-Name: Example
-Points: -
-Prompt: Example
+**Url:** -
+**Name:** Example
+**Points:** -
+**Prompt:** Example
