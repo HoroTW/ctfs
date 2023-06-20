@@ -28,7 +28,7 @@ This is vaguely the structure I am using:
 ```
 
 Table of CTFs (2023):
-| Solved | Year | CTF     | Category | Name      |
-| ------ | ---- | ------- | -------- | --------- |
-| ✔      | 2023 | GPN CTF | web      | Web-Admin |
-
+| Solved | Year | CTF     | Category | Name                |
+| ------ | ---- | ------- | -------- | ------------------- |
+| ✔      | 2023 | GPN CTF | web      | Web-Admin           |
+| ✖      | 2023 | GPN CTF | pwn      | dot-shortage-warmup |
